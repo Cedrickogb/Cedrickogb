@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hello, I'm Cedrick 👋
 
-<!--
-**Cedrickogb/Cedrickogb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌎 Frontend Developer | 🏗️ Software Architect
 
-Here are some ideas to get you started:
+I'm a frontend developer and software architecture graduate dedicated to crafting exceptional digital experiences. My expertise spans building responsive user interfaces with modern frameworks to exploring 2D and 3D interactive web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Skills
+
+🔧 **Languages and Tools:** JavaScript, TypeScript, Vue.js, React, Tailwind CSS, Konva.js
+📐 **Visualization:** Fabric.js, Konva.js, Three.js
+🏗️ **Architecture:** Software Architecture
+
+## Experience
+
+🎓 Graduated in Software Architecture
+🚀 Several years of experience in web and mobile development
+👔 Currently building a Brand-Influencer connection platform
+
+## Contact Me
+
+📧 Email: cedrickogoubiyi1@gmail.com
