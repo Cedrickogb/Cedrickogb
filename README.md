@@ -22,4 +22,4 @@ I'm a frontend developer and software architecture graduate dedicated to craftin
 
 ## Contact Me
 
-📧 Email: cedrickogoubiyi1@gmail.com
+📧 Email: cedrickogoubiyi13@gmail.com
